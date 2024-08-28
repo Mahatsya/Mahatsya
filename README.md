@@ -10,7 +10,5 @@
 Mahatsya/Mahatsya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-*.js linguist-detectable=true
-*.java linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
+
+https://img.shields.io/badge/:badgeContent?style=plastic&logo=fgg&logoColor=er&logoSize=reg&label=reg&labelColor=reg
