@@ -1,14 +1,7 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F76800&width=435&lines=Hi+there!%F0%9F%91%8B;I+am+Danabek+Madiyar!;or+Mahatsya%F0%9F%98%8E" alt="Typing SVG" /></a>
+</h1>
 
-<!---
-Mahatsya/Mahatsya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-https://img.shields.io/badge/:badgeContent?style=plastic&logo=fgg&logoColor=er&logoSize=reg&label=reg&labelColor=reg
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahatsya&theme=slateorange) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahatsya&theme=slateorange)
